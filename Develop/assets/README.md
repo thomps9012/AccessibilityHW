@@ -3,8 +3,6 @@
 I changed the header background color to an orange (specifically #E73B0D)
 Also changed the text in the header color to a black (specifically #000000)
 
-Added in a drop down button in the header labeled search engines that would direct the user to either google, bing, or ask.com
-
 Changed the title of the website to Horiseon Marketing Solutions
 
 Added notations to sections in order to make future coding fixes easier
